@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color: #631594;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.container{
+    width: 80%;
+    margin: 30px auto;
+}
+
+.box{
+    background-color: #edc4f8;
+
+    /* CONTENT */
+    width: 100%;
+
+    /* PADDING (space inside) */
+    padding: 20px;
+
+    /*BORDER */
+    border: 2px solid #631594;
+
+    /* MARGIN (space outside) */
+    margin-bottom: 20px;
+}
+
+.highlight{
+   color: #2942e7;
+   font-weight: bold;
+
+}
+
+footer{
+    background-color: #631594;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}

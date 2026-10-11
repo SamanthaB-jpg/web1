@@ -1,0 +1,10 @@
+What is one key difference you noticed between float layout and Flexbox?
+I noticed that the float model was more designed around text while he flex was more focused into styling the actual layout and design of the code.
+Which layout method (float or Flexbox) felt easier to use, and why?
+I found that float was easier for me to use because it was seemingly more clean cut to use compared to flex where even though there was more freedom, it ended up complicating it a little more for me and took a little longer to understand.
+How did using the box model (margin, padding, border) affect your layout?
+It took some time to get the hang of what each specific one was doing and that it was a little complicated for all of them to be used together without any overlap, but once I felt better about using them it was fun to play around and get them to work properly together.
+What was one challenge you faced when building your layout?
+I would say the main challenges that I had were with a couple of the links and also getting the layout to work properly. The footer was confusing at times to get in the proper location on the bottom of the page, and the section link was tricky because I had to figure out what was causing it not to jump to the correct spot.
+What is one thing you feel more confident doing after this lesson?
+I feel more confident in putting a layout and format onto a website while also having a better understanding at the best colors to use, and also getting the correct proportions of laying out the headers and sections of a website.
